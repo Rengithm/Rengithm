@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rengithm
 - 👀 I’m interested in Software Engineering, IoT, Automation
-- 🌱 I’m currently learning Cloud Computing, Automation using Python
-- 💞️ I’m looking to collaborate on IoT, Python Automation
+- 🌱 I’m provising solutions on Cloud Computing based on Cloud Native Cloud Agnostic Open Source Event Driven Container Kubernetes and .NET Core Platform. 
+- 💞️ I’m researching on AI/ML and practical usecases in the realworld.
 - 📫 How to reach me rengith.m1974@gmail.com
 
 <!---
